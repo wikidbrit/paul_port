@@ -1,48 +1,30 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby minimal starter
-</h1>
+# Paul Fleming Portfolio/CV Page
 
-## 🚀 Quick start
+This project has some goals not outlined in previous attempts to create something I am happy to display and host publicly. 
+1. Create a unique brand that is optimized for web 
+2. Branding able to interact in a unique way with the user
+3. Minimal UI light on the content
+4. Focus on expression rather than expected user experiences in web
+5. Be proud of it, and continually improve it
+---
+Some of the stretch goals include
 
-1.  **Create a Gatsby site.**
+1. Utilizing Gatsby or similar
+2. Develop content to present in a blog style manner
+3. Develop the project to generate new content/pages when adding content to the CMS
+---
+## Roadmap
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+1. ~~Brand Development~~ **Complete**
+2. ~~Layout Research~~ **Complete**
+3. ~~Content Identification~~ **Complete**
+4. ~~Figma Layout Design~~ **Complete**
+5. Component Breakdown
+6. CMS Content Model Created
+7. CMS Content Added
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+## Methodology To Use
 
-2.  **Start developing.**
-
-    Navigate into your new site’s directory and start it up.
-
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
-
-3.  **Open the code and start customizing!**
-
-    Your site is now running at http://localhost:8000!
-
-    Edit `src/pages/index.js` to see your site update in real-time!
-
-4.  **Learn more**
-
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+1. I will create and follow a Kanban board in my office
+2. I will continually push myself outside my safe zone. 
+3. I will stick to the design decisions made previously in the initial deployment and refine after the fact. 
